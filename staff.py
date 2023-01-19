@@ -5,7 +5,7 @@ import time
 import os
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud, STOPWORDS
-from PIL import Image
+
 import numpy as np
 
 import plotly.express as px
