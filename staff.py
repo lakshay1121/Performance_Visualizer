@@ -485,5 +485,5 @@ if uploaded_file is not None:
 
         plot.double_radar(team_avg_row)
 
-st.ballo0ns()
+st.balloons()
 st.subheader('Performance Visualizer.')
