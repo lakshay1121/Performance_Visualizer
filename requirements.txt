@@ -1,9 +1,9 @@
-matplotlib==3.6.0
-matplotlib-inline==0.1.6
-numpy==1.23.2
-pandas==1.4.4
-plotly==5.10.0
-plotly-express==0.4.1
-streamlit==1.17.0
-wordcloud==1.8.2.2
+matplotlib
+matplotlib-inline
+numpy
+pandas
+plotly
+plotly-express
+streamlit
+wordcloud
 
