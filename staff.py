@@ -270,7 +270,7 @@ def mock_data_download_button():
     st.sidebar.markdown(href, unsafe_allow_html=True)
 
 
-st.sidebar.title('Staff Visualizer.')
+st.sidebar.title('Performance Visualizer.')
 
 
 st.sidebar.subheader('Upload Your File')
@@ -485,5 +485,5 @@ if uploaded_file is not None:
 
         plot.double_radar(team_avg_row)
 
-
-st.subheader('Staff Visualizer.')
+st.ballo0ns()
+st.subheader('Performance Visualizer.')
