@@ -23,7 +23,7 @@ timestr = time.strftime("%Y%m%d-%H%M%S")
 # from gensim.summarization import summarize
 
 
-st.set_page_config(page_title='Staff Visualizer.', layout='wide',
+st.set_page_config(page_title='Performance Visualizer.', layout='wide',
                    page_icon='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/322/chart-increasing_1f4c8.png')
 
 # with open('style.css') as f:
