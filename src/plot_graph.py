@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-from pandas_profiling import ProfileReport
-from streamlit_pandas_profiling import st_profile_report
 import time
 import os
 import matplotlib.pyplot as plt
